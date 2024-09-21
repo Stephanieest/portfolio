@@ -1,0 +1,71 @@
+nav{
+    background-color:peachpuff;
+    padding: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a{
+    color:hotpink;
+    text-decoration:none;
+    font-size: 1rem;
+}
+
+nav a:hover{
+    color:dodgerblue;
+}
+
+.logo{
+    font-size: large;
+    font-family:cursive;
+    color:rgb(255, 0, 238);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    color:black;
+    font-family: cursive;
+    text-align: center;
+}
+
+.portfolio{
+    background-image: url(../assets.img/download\ \(6\).jpg);
+        background-repeat: no-repeat;
+        height: 100vh;
+        background-size: cover;
+        background-position: bottom;
+        position: relative;
+    }
+
+    .btn{
+        color:firebrick;
+    }
+    h1{ 
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        color:fuchsia;
+        
+    }
+
+    
+
+
+
+
+
+
+
+
+
+
+
